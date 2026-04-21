@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  text-align: center;
+}
+
+nav {
+  background: black;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+nav a.active {
+  font-weight: bold;
+  border-bottom: 2px solid white;
+}
+
+img {
+  border-radius: 50%;
+  margin-top: 20px;
+}
